@@ -1,4 +1,25 @@
-'''Calculates how much ivermectine you need per lbs or kg'''
+'''
+************************************************************************************
+***^^^^ DANGER WILL ROBINSON *******
+************************************************************************************
+Calculates how much ivermectine dosage for sheep drench per bodyweight (lbs or kg)
+************************************************************************************
+***^^^^ DANGER WILL ROBINSON *******
+************************************************************************************
+THIS IS ONLY A TEST
+    DO NOT USE FOR MEDICAL ADVISE
+THIS IS ONLY A TEST
+    DO NOT USE FOR MEDICAL ADVISE
+THIS IS ONLY A TEST
+    DO NOT USE FOR MEDICAL ADVISE
+THIS IS ONLY A TEST
+    DO NOT USE FOR MEDICAL ADVISE
+THIS IS ONLY A TEST
+    DO NOT USE FOR MEDICAL ADVISE
+************************************************************************************
+***^^^^ DANGER WILL ROBINSON *******
+************************************************************************************
+'''
 
 imML_PER_huPOUND    = 0.11538461538
 imMG_PER_imML       = 0.8
