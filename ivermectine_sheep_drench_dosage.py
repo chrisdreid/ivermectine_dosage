@@ -20,6 +20,9 @@ THIS IS ONLY A TEST
 ***^^^^ DANGER WILL ROBINSON *******
 ************************************************************************************
 '''
+# LEGEND #
+# im = ivermectine
+# hu = human bodyweight
 
 imML_PER_huPOUND    = 0.11538461538
 imMG_PER_imML       = 0.8
@@ -56,5 +59,4 @@ for i in range(10):
     wt = i*25 + 25
     print('---- %.2f lbs'%wt)
     print('   %.3f (mg)  -> %.3f (ml)'%( mg_of_im_per_bodyweight(wtLbs=wt),ml_of_im_per_bodyweight(wtLbs=wt)))
-    # print('  (lbs) = '%(wt, ml_of_im_per_bodyweight(wtLbs=wt)))
-    # print('----')
+
